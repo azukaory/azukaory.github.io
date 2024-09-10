@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://azukaory.github.io/sitemap/sitemap.txt
